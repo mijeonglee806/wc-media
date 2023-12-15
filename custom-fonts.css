@@ -1,0 +1,117 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4713705, 2022-04-19T16:29:34-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed /fonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: HalisGR-Bold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/halis-gr/bold/
+ * Copyright: Copyright (c) 2012 by Ahmet Altun. All rights reserved.
+ * 
+ * Webfont: HalisGR-Regular by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/halis-gr/regular/
+ * Copyright: Copyright (c) 2012 by Ahmet Altun. All rights reserved.
+ * 
+ * Webfont: HalisGR-SBlack by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/halis-gr/sblack/
+ * Copyright: Copyright (c) 2012 by Ahmet Altun. All rights reserved.
+ * 
+ * Webfont: HalisGR-SBold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/halis-gr/sbold/
+ * Copyright: Copyright (c) 2012 by Ahmet Altun. All rights reserved.
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+@font-face {
+    font-family: "HalisGR-Regular";
+    src: url('https://prismic-io.s3.amazonaws.com/wc-us-dev/dbefdd6a-1fa7-4659-9be7-fec0a3c5ef0c_Halis-GR-regular.woff2') format('woff2'), 
+        url('https://prismic-io.s3.amazonaws.com/wc-us-dev/9d577b5b-d43c-4d4d-9229-ee10f5ef982a_Halis-GR-regular.woff') format('woff');
+}
+@font-face {
+    font-family: "HalisGR-SBlack";
+    src: url('https://prismic-io.s3.amazonaws.com/wc-us-dev/abcb462f-f7cc-4e4e-8ce0-e4ad2a8fc1ca_Halis-GRS-bold.woff2') format('woff2'), 
+        url('https://prismic-io.s3.amazonaws.com/wc-us-dev/3e30d50b-48e3-4b7b-b8a9-c74ec10424f5_Halis-GRS-black.woff') format('woff');
+}
+@font-face {
+    font-family: "HalisGR-Black";
+    src: url('https://prismic-io.s3.amazonaws.com/wc-us-dev/20837496-23f1-4ded-874e-44044abae27e_Halis-GR-black.woff2') format('woff2'), 
+        url('https://prismic-io.s3.amazonaws.com/wc-us-dev/6c7f3b4b-2fb7-49a8-9d1e-eda89577701f_Halis-GR-black.woff') format('woff');
+}
+@font-face {
+    font-family: "HalisGR-Bold";
+    src: url('https://prismic-io.s3.amazonaws.com/wc-us-dev/4aee1249-b0dd-433e-bd80-649ed2231f00_Halis-GR-bold.woff2') format('woff2'), 
+        url('https://prismic-io.s3.amazonaws.com/wc-us-dev/79fc8c0c-4bd2-4ae6-bb59-d293df973d66_Halis-GR-bold.woff') format('woff');
+}
+@font-face {
+    font-family: "HalisGR-SBold";
+    src: url('https://prismic-io.s3.amazonaws.com/wc-us-dev/abcb462f-f7cc-4e4e-8ce0-e4ad2a8fc1ca_Halis-GRS-bold.woff2') format('woff2'), 
+        url('https://prismic-io.s3.amazonaws.com/wc-us-dev/1a5c5617-3675-43ee-9889-5009097a957e_Halis-GRS-bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'halis_grbold';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/a3d7e37b-95cb-4086-bfe2-dd9967847f06_ahmet_altun_-_halisgr-bold-webfont.eot");
+}
+@font-face {
+    font-family: 'halis_grbold';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/a9c972b1-0e5a-463a-8875-e2d508990919_ahmet_altun_-_halisgr-bold-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halis_gr_regularregular';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/4c6ad704-56ad-496e-be5f-2ede615b4631_ahmet_altun_-_halisgr-regular-webfont.eot");
+}
+@font-face {
+    font-family: 'halis_gr_regularregular';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/cfc27db1-2744-449f-86bb-146cd0014c1c_ahmet_altun_-_halisgr-regular-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halis_grs_bold';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/41bf89bb-9090-400d-a09f-2baadf04fb38_ahmet_altun_-_halisgr-sbold-webfont.eot");
+}
+@font-face {
+    font-family: 'halis_grs_bold';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/be8775c0-23e3-4182-aaf4-5a9e0706acd7_ahmet_altun_-_halisgr-sbold-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* White Claw Custom Font */
+@font-face {
+    font-family: 'White Claw Custom Light';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/5cee90fa-c961-445a-aa14-9f79dfa766b0_White+Claw+Light.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'White Claw Custom Medium';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/daa4597b-04e9-4f0f-ae2b-fb2bf8605cc9_White+Claw+Medium.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'White Claw Custom Regular';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/cc0b44f6-1c79-4dcb-a488-9607fa362439_White+Claw+Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'White Claw Custom Black';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/2d007ca2-c159-4753-a419-3b3387e77d26_White+Claw+Black.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'White Claw Custom Bold';
+    src: url("https://prismic-io.s3.amazonaws.com/wc-us-dev/de8ed92c-88ae-44ee-a6f4-e7f6bc723a54_White+Claw+Bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
